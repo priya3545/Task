@@ -1,0 +1,33 @@
+body {
+  margin: 20px;
+}
+
+ul {
+  margin: 20px;
+  line-height: 40px;
+}
+
+li {
+  margin-left: 40px;
+}
+
+.btn {
+  font-size: 15px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.updateBtn {
+  background-color: green;
+  color: white;
+}
+
+.beforeUpdateBtn {
+  background-color: bisque;
+  color: black;
+}
+
+.deleteBtn {
+  background-color: red;
+  color: white;
+}
